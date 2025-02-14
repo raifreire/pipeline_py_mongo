@@ -1,4 +1,4 @@
-# PIPELINE COM PYTHON <div>https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png</div>, MONGO https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png DB E MYSQL https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png
+# PIPELINE COM PYTHON <div><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"></div>, MONGO https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png DB E MYSQL https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png
 
 ## EXPLICAÇÃO DO CÓDIGO 🧑‍💻
 
