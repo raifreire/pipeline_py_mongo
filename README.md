@@ -1,4 +1,7 @@
-# PIPELINE COM PYTHON <div><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"></div>, MONGO https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png DB E MYSQL https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png
+# PIPELINE COM PYTHON, MONGO, MYSQL. 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+</div>
 
 ## EXPLICAÇÃO DO CÓDIGO 🧑‍💻
 
