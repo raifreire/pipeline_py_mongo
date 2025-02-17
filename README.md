@@ -1,4 +1,5 @@
-# PIPELINE COM PYTHON, MONGO, MYSQL.  <div align="center"> 
+# PIPELINE COM PYTHON, MONGO, MYSQL.  
+<div> 
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
