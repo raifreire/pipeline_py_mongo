@@ -7,6 +7,8 @@
 
 
 ## EXPLICAÇÃO DO CÓDIGO 🧑‍💻
+>  Pipeline de dados extraidos de uma API, para realizar transformação e carregamento em um banco NOSQL orientado a Documentos (Mongo DB),
+> além de uma nova transformação nos dados para se adequar ao modelo Relacional e ser carregado em um banco MYSQL.
 
 * Exemplo de como conectar-se a um banco de dados MongoDB, 
 * extrair dados de uma API, 
